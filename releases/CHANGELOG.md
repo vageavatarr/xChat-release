@@ -1,3 +1,6 @@
+## 0.1.6 - 2026-02-22T14:05:49Z
+- Automated publish from private source repository.
+
 ## 0.1.5 - 2026-02-22T13:53:53Z
 - Automated publish from private source repository.
 
