@@ -1,7 +1,7 @@
-{
-  "app": "xChat",
-  "versionName": "0.1.6",
-  "versionCode": 7,
-  "apk": "releases/xChat-v0.1.6.apk",
-  "publishedAt": "2026-02-22T14:05:49Z"
+﻿{
+    "app":  "xChat",
+    "versionName":  "0.1.7",
+    "versionCode":  8,
+    "apk":  "releases/xChat-v0.1.7.apk",
+    "publishedAt":  "2026-02-22T18:34:08Z"
 }
