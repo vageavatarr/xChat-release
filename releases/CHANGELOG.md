@@ -1,4 +1,7 @@
-﻿## 0.2.0 - 2026-02-24T13:04:40Z
+﻿## 0.2.1 - 2026-02-24T13:15:13Z
+- Signed release build, reduced security-sensitive permissions, browser-based updater flow.
+
+## 0.2.0 - 2026-02-24T13:04:40Z
 - Publish pre-release APK from private source repository.
 
 ## 0.1.8 - 2026-02-24T11:51:12Z
@@ -25,6 +28,7 @@
 - Session-loss handling improvements.
 - Messaging status/emoji/button stability fixes.
 - General reliability and UI stability updates.
+
 
 
 
