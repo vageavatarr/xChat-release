@@ -1,4 +1,7 @@
-﻿## 0.2.1 - 2026-02-24T13:15:13Z
+﻿## 0.2.2 - 2026-02-24T15:32:29Z
+- Signed release APK from AndroidBrowser2 source, version bump to 0.2.2 (versionCode 12).
+
+## 0.2.1 - 2026-02-24T13:15:13Z
 - Signed release build, reduced security-sensitive permissions, browser-based updater flow.
 
 ## 0.2.0 - 2026-02-24T13:04:40Z
@@ -28,6 +31,7 @@
 - Session-loss handling improvements.
 - Messaging status/emoji/button stability fixes.
 - General reliability and UI stability updates.
+
 
 
 
