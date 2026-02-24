@@ -1,7 +1,7 @@
-﻿{
-    "publishedAt":  "2026-02-24T15:32:29Z",
+{
+    "publishedAt":  "2026-02-24T17:06:33Z",
     "app":  "xChat",
-    "apk":  "releases/xChat-v0.2.2.apk",
-    "versionCode":  12,
-    "versionName":  "0.2.2"
+    "apk":  "releases/xChat-v0.2.3.apk",
+    "versionCode":  13,
+    "versionName":  "0.2.3"
 }

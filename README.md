@@ -3,8 +3,8 @@
 Public APK distribution for xChat.
 
 ## Latest
-- Version: `0.2.2`
-- APK: `releases/xChat-v0.2.2.apk`
+- Version: `0.2.3`
+- APK: `releases/xChat-v0.2.3.apk`
 
 ## Notes
 - Source code is kept in a separate private repository.
