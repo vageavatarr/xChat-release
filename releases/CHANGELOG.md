@@ -1,3 +1,6 @@
+## 0.2.5 - 2026-02-24T17:36:14Z
+- Signed release APK from AndroidBrowser2 source, stabilized quote-swipe gesture handling (versionCode 15).
+
 ## 0.2.4 - 2026-02-24T17:18:06Z
 - Signed release APK from AndroidBrowser2 source, quote-swipe full-width interaction update (versionCode 14).
 
@@ -37,6 +40,7 @@
 - Session-loss handling improvements.
 - Messaging status/emoji/button stability fixes.
 - General reliability and UI stability updates.
+
 
 
 
