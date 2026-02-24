@@ -1,4 +1,7 @@
-﻿## 0.1.7 - 2026-02-22T18:34:08Z
+﻿## 0.1.8 - 2026-02-24T11:51:12Z
+- Manual publish from private source repository.
+
+## 0.1.7 - 2026-02-22T18:34:08Z
 - Manual publish of signed APK to fix install failures.
 
 ## 0.1.6 - 2026-02-22T14:05:49Z
@@ -19,4 +22,5 @@
 - Session-loss handling improvements.
 - Messaging status/emoji/button stability fixes.
 - General reliability and UI stability updates.
+
 
