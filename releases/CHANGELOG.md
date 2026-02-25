@@ -1,3 +1,8 @@
+# Changelog
+
+## 0.2.7 - 2026-02-25T11:59:04Z
+- Automated publish from private source repository.
+
 ## 0.2.6 - 2026-02-25T08:22:38Z
 - Signed release APK from AndroidBrowser2 source, completed roadmap wave: in-chat date jump search, emoji tabs with recent/favorites, and chat UI polish.
 
@@ -37,7 +42,7 @@
 ## 0.1.3 - 2026-02-22T12:54:02Z
 - Automated publish from private source repository.
 
-﻿# Changelog
+п»ї# Changelog
 
 ## 0.1.1 - 2026-02-22
 - Session-loss handling improvements.
