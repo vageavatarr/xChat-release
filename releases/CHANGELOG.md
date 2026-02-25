@@ -1,3 +1,6 @@
+## 0.2.6 - 2026-02-25T08:22:38Z
+- Signed release APK from AndroidBrowser2 source, completed roadmap wave: in-chat date jump search, emoji tabs with recent/favorites, and chat UI polish.
+
 ## 0.2.5 - 2026-02-24T17:36:14Z
 - Signed release APK from AndroidBrowser2 source, stabilized quote-swipe gesture handling (versionCode 15).
 
