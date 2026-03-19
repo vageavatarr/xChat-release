@@ -10,5 +10,5 @@ Public APK distribution for xChat.
 - Source code is kept in a separate private repository.
 - Download APK from `releases/` and install manually.
 
-- Latest: v0.2.13
+- Latest: v0.2.14
 - Latest metadata: releases/latest.json
