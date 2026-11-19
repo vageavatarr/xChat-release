@@ -1,14 +1,8 @@
-# xChat Release Repository
+# Релизы xChat для Android
 
-Public APK distribution for xChat.
+Публичный каталог готовых APK xChat. Здесь размещаются версии приложения для установки на Android. Исходники клиента ведутся в отдельном репозитории.
 
-## Latest
-- Version: `0.2.6`
-- APK: `releases/xChat-v0.2.6.apk`
+- [Сведения о последней сборке](releases/latest.json) содержат номер версии и имя APK.
+- [Архив APK](releases) содержит доступные сборки.
 
-## Notes
-- Source code is kept in a separate private repository.
-- Download APK from `releases/` and install manually.
-
-- Latest: v0.2.14
-- Latest metadata: releases/latest.json
+Чтобы установить xChat, откройте каталог, скачайте APK выбранной версии и запустите установку на Android.
